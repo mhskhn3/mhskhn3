@@ -1,10 +1,8 @@
-[![MasterHead](https://cdn.dribbble.com/users/176039/screenshots/9022929/media/b21392d51355d99c7b82a5fedf2c4f85.gif)](https://hasan1729.io)
+[![MasterHead](https://frogdesign.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2020/08/04192430/AI_designing-with-data.gif)](https://hasan1729.io)
 <h1 align="center">Hi 👋, I'm Mohd Hasan Khan</h1>
-<h3 align="center">Presently, I look forward to building my career in Data Science field that will be intellectually challenging, but rewarding and provide great opportunities in the long run. I believe that I am passionate, intellectually capable, and prepared to set out on this exhilarating and challenging path.</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/176039/screenshots/9022929/media/b21392d51355d99c7b82a5fedf2c4f85.gif")
+<h3 align="center">Presently, I look forward to building my career in Data Science field that will be intellectually challenging, but rewarding and provide great opportunities in the long run. I believe that I am passionate, intellectually capable, and prepared to set out on this exhilarating and challenging path.</h3> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hasan1729&label=Profile%20views&color=0e75b6&style=flat" alt="hasan1729" /> </p>
-
+<p align="left"> <img src="https://wallpaperaccess.com/full/1325192.jpg" /> </p>
 - 🌱 I’m currently learning **Machine Learning**
 
 - 💬 Ask me about **Data Science, Machine Learning, Artifical Intellegence and little bit of Mathematics.**
