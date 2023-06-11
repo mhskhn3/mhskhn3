@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mohd Hasan Khan</h1>
 <h3 align="center">As a data science enthusiast with a background in Mathematics and Computer Science. I am passionate about using data-driven approaches to solve real-world problems. My areas of expertise include machine learning, data analysis, and data visualization, and I have experience working with a variety of tools and technologies including Python, SQL, R and Power BI. Currently , I'am persuing my masters from Institute of Mathematics and Aplication, Bhubaneswar where i have learned several courses like Linear algebra, Probability, Machine learning, Statistics, Deep Learning, Data Analysis etc. In the future, I hope to use my skills and knowledge to make a positive impact in a career as a data scientist.</h3> 
 
-<p align="left"> <img src="https://wallpaperaccess.com/full/1325192.jpg" /> </p>
+<p align="left"> <img src="https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_423_752/0/1626753867110?e=1692230400&v=beta&t=sAd7BLzgmB_kdArniHYNTRCdtBRjEb8KRXbn_OQZYzM" /> </p>
 - 🌱 I’m currently learning **Machine Learning**
 
 - 💬 Ask me about **Data Science, Machine Learning, Artifical Intellegence and little bit of Mathematics.**
